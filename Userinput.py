@@ -23,3 +23,11 @@ p = a+b+c
 print("Area =",area)
 print("perimeter =",p)
 
+
+h = float(input("Enter Height (m):"))
+b = float(input("Enter Width (m):"))
+area = h*b
+print("Area =",area,"(m^2)")
+
+
+
